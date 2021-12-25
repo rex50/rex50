@@ -23,13 +23,13 @@ A private project (soon to be public) exploring KTOR based on Kotlin.
 <br>
 
 ## 📫 Social links:
-<a href="https://www.linkedin.com/in/pavitra-raut/" target="_blank">
+<a href="https://www.linkedin.com/in/pavitra-raut/">
   <img width="60" height="60" src="https://img.icons8.com/color/100/000000/linkedin.png"/> 
 </a>
-<a href="https://www.instagram.com/rex50.codes/" target="_blank">
+<a href="https://www.instagram.com/rex50.codes/">
   <img width="60" height="60" src="https://img.icons8.com/fluency/100/000000/instagram-new.png"/>
 </a>
-<a href="https://www.behance.net/rex50" target="_blank">
+<a href="https://www.behance.net/rex50">
   <img width="60" height="60" src="https://img.icons8.com/color/100/000000/behance.png"/>
 </a>
 
