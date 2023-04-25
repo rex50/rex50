@@ -6,19 +6,13 @@ A passionate Android (Kotlin & JAVA) developer and UI/UX Designer (aspirant) bas
 
 ## 🔭 I’m currently working on...
 
-#### 📝 [Notes - Android app](https://github.com/rex50/Compose-Notes) (Kotlin)
+#### 📝 [Converto](https://github.com/rex50/Converto) (Kotlin)
 A open source project exploring Jetpack Compose based on Kotlin and other new libraries.
 - MVVM
 - Jetpack Compose (for UI)
 - Retrofit
-- Navigation component (for Jetpack compose)
 - Hilt (for dependency injection)
-
-#### 📝 Notes - Backend (Kotlin)
-A private project (soon to be public) exploring KTOR based on Kotlin.
-- KTOR
-- Authentication (using JWT)
-- Netty server
+- Datastore (In progress)
 
 <br>
 
