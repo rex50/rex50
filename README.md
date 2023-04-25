@@ -13,6 +13,7 @@ A open source project exploring Jetpack Compose based on Kotlin and other new li
 - Retrofit
 - Hilt (for dependency injection)
 - Datastore (In progress)
+- Unit testing
 
 <br>
 
